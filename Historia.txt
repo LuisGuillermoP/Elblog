@@ -2,4 +2,5 @@ Esta es la historia de Luis Guillermo Povis Cisneros
 
 luis tiene 20 años
 
-e intenta aprobar la facultad
+e intenta aprobar la facultad.
+El en este momento esta realizando un curzo de git y github
